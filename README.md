@@ -8,3 +8,6 @@ For now, I know
 2. CHALK
 3. Repl.it
 4. Git
+5. NodeJS
+6. HTML
+7. CSS
